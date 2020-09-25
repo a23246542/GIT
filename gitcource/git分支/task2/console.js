@@ -13,3 +13,9 @@ function input(cm,kg){
 }
 
 input(178,70);
+
+const total = 0;
+for(x=1;x<=10;x++){
+  total+=x;
+}
+console.log(total);
